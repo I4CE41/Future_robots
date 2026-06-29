@@ -1,0 +1,7 @@
+axis,value,runs,n_success,success_pct,n_timeout,n_battery,n_collision,mean_mission_time_s,mean_energy_wh,mean_regen_wh,mean_final_soc,mean_soc_spread,mean_nmpc_mean_ms,mean_recoveries,mean_collisions
+initial_soc,0.7,8,8,100.0,0,0,0,140.067,89.609,0.346,53.016,0.373,123.346,3.875,0.0
+initial_soc,0.55,8,8,100.0,0,0,0,139.794,89.174,0.303,38.025,0.373,122.948,3.25,0.0
+initial_soc,0.4,8,8,100.0,0,0,0,167.879,105.367,0.184,19.795,0.444,123.256,4.25,0.0
+initial_soc,0.3,8,0,0.0,0,8,0,155.725,95.889,0.05,4.994,0.117,120.404,14.0,0.0
+initial_soc,0.2,8,0,0.0,0,8,0,61.812,38.615,0.014,4.99,0.03,142.176,5.125,0.0
+initial_soc,0.15,8,0,0.0,0,8,0,6.7,3.867,0.001,4.99,0.01,0.0,1.0,0.0

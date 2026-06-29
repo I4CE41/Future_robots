@@ -1,0 +1,9 @@
+variant,seed,success,boxes,num_boxes,failure,mission_time_s,path_m,energy_wh,regen_wh,final_soc,terminal_v,max_cell_temp,soc_spread,nmpc_mean_ms,nmpc_p99_ms,nmpc_solves,switches,astar_replans,recoveries,collisions,wedge_escapes,corridor_narrow_s,corridor_class
+full,1000,0,0,3,battery,6.7,0.041,3.8672,0.0013,4.99,22.083,25.68,0.01,0.0,0.0,0,0,2,1,0,0,0.0,open
+full,1001,0,0,3,battery,6.7,0.041,3.8672,0.0013,4.99,22.083,25.68,0.01,0.0,0.0,0,0,2,1,0,0,0.0,open
+full,1002,0,0,3,battery,6.7,0.041,3.8672,0.0013,4.99,22.083,25.68,0.01,0.0,0.0,0,0,2,1,0,0,0.0,open
+full,1003,0,0,3,battery,6.7,0.041,3.8672,0.0013,4.99,22.083,25.68,0.01,0.0,0.0,0,0,2,1,0,0,0.0,open
+full,1004,0,0,3,battery,6.7,0.041,3.8672,0.0013,4.99,22.083,25.68,0.01,0.0,0.0,0,0,2,1,0,0,0.0,open
+full,1005,0,0,3,battery,6.7,0.041,3.8672,0.0013,4.99,22.083,25.68,0.01,0.0,0.0,0,0,2,1,0,0,0.0,open
+full,1006,0,0,3,battery,6.7,0.041,3.8672,0.0013,4.99,22.083,25.68,0.01,0.0,0.0,0,0,2,1,0,0,0.0,open
+full,1007,0,0,3,battery,6.7,0.041,3.8672,0.0013,4.99,22.083,25.68,0.01,0.0,0.0,0,0,2,1,0,0,0.0,open

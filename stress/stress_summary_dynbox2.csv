@@ -1,0 +1,4 @@
+axis,value,runs,n_success,success_pct,n_timeout,n_battery,n_collision,mean_mission_time_s,mean_energy_wh,mean_regen_wh,mean_final_soc,mean_soc_spread,mean_nmpc_mean_ms,mean_recoveries,mean_collisions
+dyn_count,0,20,19,95.0,1,0,0,89.373,57.714,0.268,74.196,0.237,94.872,3.053,0.0
+dyn_count,1,20,9,45.0,2,0,9,120.529,78.252,0.369,70.322,0.323,96.499,8.667,0.0
+dyn_count,2,20,10,50.0,5,0,5,134.044,87.13,0.402,68.64,0.36,96.047,12.3,0.0

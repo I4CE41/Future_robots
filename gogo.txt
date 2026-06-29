@@ -1,0 +1,80 @@
+╭─── Claude Code v2.1.154 ─────────────────────────────────────────────────────╮
+│                                 │ Tips for getting started                   │
+│          Welcome back!          │ Run /init to create a CLAUDE.md file with… │
+│                                 │ Note: You have launched claude in your ho… │
+│             ▐▛███▜▌             │ ────────────────────────────────────────── │
+│            ▝▜█████▛▘            │ What's new                                 │
+│              ▘▘ ▝▝              │ Session titles are now generated in the l… │
+│                                 │ Added `footerLinksRegexes` setting for re… │
+│   stealth · API Usage Billing   │ Improved Bedrock credential caching: cred… │
+│           C:\Users\Hp           │ /release-notes for more                    │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+❯ /memory 
+  ⎿  Opened memory file at ~.claude\CLAUDE.md
+
+     ▎ Using $EDITOR="C:\Windows\notepad.exe". To change editor, set $EDITOR or $VISUAL environment variable.
+
+❯ /context 
+  ⎿  Context Usage
+     ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁   Sonnet 4.6
+     ⛁ ⛁ ⛀ ⛀ ⛁ ⛁ ⛀ ⛁ ⛁ ⛁   claude-sonnet-4-6
+     ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁   298.3k/200k tokens (149%)
+     ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ 
+     ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁   Estimated usage by category
+     ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁   ⛁ System prompt: 5.6k tokens (2.8%)
+     ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁   ⛁ System tools: 19.1k tokens (9.6%)
+     ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁   ⛁ Memory files: 55 tokens (0.0%)
+     ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁   ⛁ Skills: 5.1k tokens (2.5%)
+     ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁ ⛁   ⛁ Messages: 170.2k tokens (85.1%)
+
+     Memory files · /memory
+     └ 1 file · 55 tokens
+
+     Skills · /skills
+     └ 56 skills · 5.1k tokens
+
+     /context all to expand
+
+      Suggestions
+      ⚠ Context is 149% full
+        Autocompact will trigger soon, which discards older messages. Use /compact now to control what gets kept.
+
+      ℹ Read results using 69.6k tokens (35%) → save ~20.9k
+        Use offset and limit parameters to read only the sections you need. Avoid re-reading entire files when you only need a few lines.
+
+❯ continue                                                                      
+  ⎿  Referenced file Downloads\Louzini_Manuscript\Thesis_Final\Chapter_4_N.tex
+  ⎿  Read ..\..\Robotics\lastry_improved\robot_rescue\_thesis_stress.py (144 lines)
+  ⎿  Read AppData\Local\Temp\claude\C--Users-Hp\33bf29c3-5fcd-40dd-85d6-13039a262222\tasks\bnsgonoat.output (5 lines)
+  ⎿  Referenced file ..\..\Robotics\lastry_improved\robot_rescue\main12.py
+  ⎿  Read AppData\Local\Temp\claude\C--Users-Hp\0d950ab4-7004-4edf-bf3a-2817bc64db51\tasks\bimevqeiw.output (4 lines)
+  ⎿  API Error: 400 You have exceeded your daily token limit. You can resume at 
+     2026-06-24 00:00 UTC.
+
+✻ Baked for 2m 23s
+
+❯ /color 
+  ⎿  Session color set to: purple
+
+❯ /color green 
+  ⎿  Session color set to: green
+
+❯ continue                                                                      
+
+  Thought for 48s (ctrl+o to expand)
+
+● Picking up: SoC axis is clean. The dynamic axis failed at num_boxes=3 but
+  single dynamic runs succeed — so I'll re-run the dynamic axis at a lighter box
+  count to get presentable values, then do the LaTeX work while it runs.
+
+  Let me kick off the lighter dynamic sweep in the background.
+
+  Ran 1 shell command (ctrl+o to expand)
+  ⎿  API Error: 400 You have exceeded your daily token limit. You can resume at 
+     2026-06-24 00:00 UTC.
+
+✻ Cooked for 42s
+
+※ recap: We just started this session, so there's no work in progress yet. Tell me what you'd like to do and we'll dig in. (disable recaps in /config)

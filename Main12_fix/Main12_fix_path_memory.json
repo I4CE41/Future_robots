@@ -1,0 +1,136 @@
+{
+  "bad_corridors": [
+    {
+      "key": [
+        5,
+        1
+      ],
+      "offset": 0.7000000000000024,
+      "width": 0.20000000000000018,
+      "confidence": 0.04545454545454549,
+      "context": "watchdog",
+      "timestamp": 1782504658
+    },
+    {
+      "key": [
+        6,
+        3
+      ],
+      "offset": 0.8500000000000025,
+      "width": 0.5000000000000004,
+      "confidence": 0.11363636363636373,
+      "context": "watchdog",
+      "timestamp": 1782504662
+    },
+    {
+      "key": [
+        -9,
+        9
+      ],
+      "offset": -1.3499999999999994,
+      "width": 1.7000000000000015,
+      "confidence": 0.3863636363636367,
+      "context": "watchdog",
+      "timestamp": 1782504671
+    },
+    {
+      "key": [
+        -10,
+        8
+      ],
+      "offset": -1.4499999999999995,
+      "width": 1.5000000000000013,
+      "confidence": 0.34090909090909116,
+      "context": "watchdog",
+      "timestamp": 1782505422
+    },
+    {
+      "key": [
+        -9,
+        8
+      ],
+      "offset": -1.3999999999999995,
+      "width": 1.6000000000000014,
+      "confidence": 0.3636363636363639,
+      "context": "watchdog",
+      "timestamp": 1782505426
+    },
+    {
+      "key": [
+        5,
+        1
+      ],
+      "offset": 0.7000000000000024,
+      "width": 0.20000000000000018,
+      "confidence": 0.04545454545454549,
+      "context": "watchdog",
+      "timestamp": 1782505616
+    },
+    {
+      "key": [
+        7,
+        4
+      ],
+      "offset": 1.0000000000000027,
+      "width": 0.8000000000000007,
+      "confidence": 0.18181818181818196,
+      "context": "watchdog",
+      "timestamp": 1782505625
+    },
+    {
+      "key": [
+        -9,
+        8
+      ],
+      "offset": -1.3999999999999995,
+      "width": 1.6000000000000014,
+      "confidence": 0.3636363636363639,
+      "context": "watchdog",
+      "timestamp": 1782505633
+    },
+    {
+      "key": [
+        -10,
+        8
+      ],
+      "offset": -1.4499999999999995,
+      "width": 1.5000000000000013,
+      "confidence": 0.34090909090909116,
+      "context": "watchdog",
+      "timestamp": 1782505645
+    },
+    {
+      "key": [
+        10,
+        8
+      ],
+      "offset": 1.450000000000003,
+      "width": 1.5000000000000013,
+      "confidence": 0.34090909090909116,
+      "context": "watchdog",
+      "timestamp": 1782505686
+    },
+    {
+      "key": [
+        9,
+        8
+      ],
+      "offset": 1.400000000000003,
+      "width": 1.6000000000000014,
+      "confidence": 0.3636363636363639,
+      "context": "watchdog",
+      "timestamp": 1782505693
+    },
+    {
+      "key": [
+        -9,
+        8
+      ],
+      "offset": -1.3999999999999995,
+      "width": 1.6000000000000014,
+      "confidence": 0.3636363636363639,
+      "context": "watchdog",
+      "timestamp": 1782507828
+    }
+  ]
+}
