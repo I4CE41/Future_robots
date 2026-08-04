@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python main10.py --no-gui --variant full --seed 1000)"
-    ]
-  }
-}
